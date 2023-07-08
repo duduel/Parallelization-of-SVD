@@ -30,7 +30,7 @@ to compile
 #   set seed for random matrix creation
 ```
 
-How to run on the academic cluster:
+How to run on the Harvard's FARSC academic cluster:
 1. Change into the directory of the chosen implementation (sequential or parallel)
 2. Call the commands
 ```
